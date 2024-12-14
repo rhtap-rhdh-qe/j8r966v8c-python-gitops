@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: j8r966v8c-python-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/j8r966v8c-python
